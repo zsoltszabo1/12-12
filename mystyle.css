@@ -6,10 +6,9 @@ text-decoration: none;
 color: red;
 }
 
-div {
+.alcim  {
     padding: 20px;
     background-color: lightcoral;
-    border-radius: 20px;
-    outline: 5px solid black;
+    outline: 1px solid black;
 margin: 8px;
 }
