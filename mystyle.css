@@ -10,10 +10,7 @@ color: red;
     padding: 20px;
     background-color: lightcoral;
     border-radius: 20px;
-    outline: 5px solid black;
-    margin: 8px;
-    margin-top: solid;
-    margin-bottom: solid;
+    outline: 1px solid black;
 }
 div {
     border-color: blue;
